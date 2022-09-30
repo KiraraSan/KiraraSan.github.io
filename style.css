@@ -74,3 +74,8 @@ footer {
   text-decoration: none;
   text-align: center;
 }
+
+.container .link a {
+  color: blue;
+  text-decoration: underline;
+}
